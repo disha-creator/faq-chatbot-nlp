@@ -24,5 +24,4 @@ The project demonstrates the use of Natural Language Processing (NLP) and simila
 
 ---
 
-## 📂 Project Structure
-# faq-chatbot-nlp
+
